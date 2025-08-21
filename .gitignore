@@ -1,0 +1,43 @@
+# ========== Unity Generated Folders ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# ========== Auto-generated Project Files ==========
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# ========== Unity Package Manager ==========
+[Pp]ackageCache/
+[Pp]rojectSettings/UnityConnectSettings.asset
+[Pp]rojectSettings/EditorBuildSettings.asset
+
+# ========== OS Specific ==========
+.DS_Store
+Thumbs.db
+
+# ========== Visual Studio / Rider ==========
+.vscode/
+.idea/
+*.vs/
+*.sln
+*.csproj
+
+# ========== Logs ==========
+*.log
+
+# ========== Crash Reports ==========
+*.stacktrace
