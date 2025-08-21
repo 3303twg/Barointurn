@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f4f66e9c42112541af90841f5f3a2c5, type: 3}
+  m_Name: M0010_Template
+  m_EditorClassIdentifier: 
+  MonsterID: M0010
+  prefab: {fileID: 3648385367256272848, guid: 9ea129f4044829a4e93207ff74d94c50, type: 3}
+  sprite: {fileID: 172626504, guid: c4d2ccab0c2ad7e47853b6e31a7ac7c2, type: 3}

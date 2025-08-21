@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f475079d1be634d48b648d6696f62dfa, type: 3}
+  m_Name: M0010
+  m_EditorClassIdentifier: 
+  MonsterID: M0010
+  template: {fileID: 11400000, guid: b4e4a95e75c24b94ca903b06cace62ea, type: 2}
+  prefab: {fileID: 3648385367256272848, guid: 9ea129f4044829a4e93207ff74d94c50, type: 3}
+  sprite: {fileID: 172626504, guid: c4d2ccab0c2ad7e47853b6e31a7ac7c2, type: 3}
+  Name: "\uD638\uB791\uC774"
+  Description: "\uB5A1 \uD558\uB098 \uC8FC\uBA74 \uC548 \uC7A1\uC544 \uBA39\uB294\uB2E4"
+  Attack: 20
+  AttackMul: 0.1
+  MaxHP: 20
+  MaxHPMul: 0.1
+  AttackRange: 5
+  AttackRangeMul: 0.2
+  AttackSpeed: 1.4
+  MoveSpeed: 3.8
+  MinExp: 19
+  MaxExp: 38
+  DropItem:
+  - {fileID: 6920393938875895781, guid: 994eac7c68ecd7e4394c8f3507a25d02, type: 3}
+  - {fileID: 6920393938875895781, guid: 994eac7c68ecd7e4394c8f3507a25d02, type: 3}

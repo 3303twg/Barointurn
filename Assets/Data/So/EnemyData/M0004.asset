@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f475079d1be634d48b648d6696f62dfa, type: 3}
+  m_Name: M0004
+  m_EditorClassIdentifier: 
+  MonsterID: M0004
+  template: {fileID: 11400000, guid: 4be4e6b4177d2614c90ec12964b39b0b, type: 2}
+  prefab: {fileID: 183176287899813476, guid: 405798ff6b8a2644cbf5128979128340, type: 3}
+  sprite: {fileID: -493647738, guid: 3bcb7877229a5334da528f2f0872b5c3, type: 3}
+  Name: Werebear
+  Description: "\uBC18\uC778\uBC18\uC218"
+  Attack: 12
+  AttackMul: 0.2
+  MaxHP: 80
+  MaxHPMul: 0.1
+  AttackRange: 1
+  AttackRangeMul: 0.5
+  AttackSpeed: 1.1
+  MoveSpeed: 2
+  MinExp: 13
+  MaxExp: 26
+  DropItem:
+  - {fileID: 6920393938875895781, guid: 994eac7c68ecd7e4394c8f3507a25d02, type: 3}

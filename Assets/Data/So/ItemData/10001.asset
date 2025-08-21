@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ec35ac9b84f05f4e904081bdc6ce08d, type: 3}
+  m_Name: 10001
+  m_EditorClassIdentifier: 
+  ItemID: 10001
+  template: {fileID: 11400000, guid: 5fddc331d4af27b4285dd12527ebd1f6, type: 2}
+  prefab: {fileID: 6920393938875895781, guid: 994eac7c68ecd7e4394c8f3507a25d02, type: 3}
+  sprite: {fileID: 934571490, guid: 0d5e657ee5a074e4baa53d5b248a01d2, type: 3}
+  Name: "\uB3C8"
+  Description: "\uB3D9\uC804"
+  UnlockLev: 1
+  MaxHP: 0
+  MaxHPMul: 0
+  MaxMP: 0
+  MaxMPMul: 0
+  MaxAtk: 0
+  MaxAtkMul: 0
+  MaxDef: 0
+  MaxDefMul: 0

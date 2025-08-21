@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f475079d1be634d48b648d6696f62dfa, type: 3}
+  m_Name: M0003
+  m_EditorClassIdentifier: 
+  MonsterID: M0003
+  template: {fileID: 11400000, guid: f9846b4b6d1685d4e8585295b824d338, type: 2}
+  prefab: {fileID: 3224965346105881147, guid: dff516525efcf9340a8826363fdca961, type: 3}
+  sprite: {fileID: -493647738, guid: 3bcb7877229a5334da528f2f0872b5c3, type: 3}
+  Name: Wizard
+  Description: "\uB9C8\uBC95\uC0AC"
+  Attack: 10
+  AttackMul: 0.2
+  MaxHP: 85
+  MaxHPMul: 0.2
+  AttackRange: 1
+  AttackRangeMul: 0.5
+  AttackSpeed: 1.05
+  MoveSpeed: 1
+  MinExp: 12
+  MaxExp: 24
+  DropItem:
+  - {fileID: 5756375457644384051, guid: 3582a3dd84112d1419b8e56fa6e834ae, type: 3}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f475079d1be634d48b648d6696f62dfa, type: 3}
+  m_Name: M0005
+  m_EditorClassIdentifier: 
+  MonsterID: M0005
+  template: {fileID: 11400000, guid: 138e77eff8f44174784919846d9ce02b, type: 2}
+  prefab: {fileID: 8749537858848215817, guid: 0fe6cf5b188cae2439153edbecf8657f, type: 3}
+  sprite: {fileID: -2092964637, guid: 4104ee12b4d54f54b91b3ba875787837, type: 3}
+  Name: Orc rider
+  Description: "\uD0C8 \uAC83\uC774 \uC788\uB294 \uC624\uD06C"
+  Attack: 12
+  AttackMul: 0.2
+  MaxHP: 70
+  MaxHPMul: 0.1
+  AttackRange: 2
+  AttackRangeMul: 0.5
+  AttackSpeed: 1.15
+  MoveSpeed: 2
+  MinExp: 14
+  MaxExp: 28
+  DropItem:
+  - {fileID: 5756375457644384051, guid: 3582a3dd84112d1419b8e56fa6e834ae, type: 3}

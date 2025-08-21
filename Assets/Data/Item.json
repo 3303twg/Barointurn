@@ -1,0 +1,34 @@
+{
+  "Item": [
+    {
+      "ItemID": 10000,
+      "Name": "물약",
+      "Description": "체력회복",
+      "UnlockLev": 1,
+      "MaxHP": 0,
+      "MaxHPMul": 0,
+      "MaxMP": 0,
+      "MaxMPMul": 0,
+      "MaxAtk": 0,
+      "MaxAtkMul": 0,
+      "MaxDef": 0,
+      "MaxDefMul": 0,
+      "Status": 0
+    },
+    {
+      "ItemID": 10001,
+      "Name": "돈",
+      "Description": "동전",
+      "UnlockLev": 1,
+      "MaxHP": 0,
+      "MaxHPMul": 0,
+      "MaxMP": 0,
+      "MaxMPMul": 0,
+      "MaxAtk": 0,
+      "MaxAtkMul": 0,
+      "MaxDef": 0,
+      "MaxDefMul": 0,
+      "Status": 0
+    }
+  ]
+}
